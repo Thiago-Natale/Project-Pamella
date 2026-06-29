@@ -5,7 +5,7 @@ const dados = {
   dt_nascimento: "07/03/2000",
   ra:"5156782",
   email:"pamellaoliveira.argondizzi@edu.uniube.br",
-  validade: "12/06/2026"
+  validade: "06/12/2026"
 };
 
 dados.nome_upper = dados.nome.toUpperCase()
